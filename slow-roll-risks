@@ -1,0 +1,33 @@
+Compute migration prerequisites
+-	Inventory
+o	  Shared storage (e.g. Netapp)
+	  Storage allocated, free
+	  Physical volume list
+	  Share list
+	  Share mapping to server
+o	Physical Servers
+o	Virtual Servers
+o	VMware ESX hosts
+o	Printers
+-	Active Directory dependencies
+o	  For each server
+ 	Current Active Directory domain
+	  Admin accounts that have access to server
+	  Groups that have access to server
+	  Service accounts assigned to server
+	MFA requirements
+	CPU, Memory, Storage
+	Operating System
+o	For each application
+	  Authentication type (Kerberos, AD, LDAP, SAML, etc)
+	  MFA requirements
+	  Groups that control access to application
+	  Group to Role mapping
+	  Application to server mapping
+-	  Compute assets reviewed & verified by GE IT site lead
+GE & DHR laptop access to migrated apps
+Telephony
+Flex Factory migration
+OT network impact
+Engineering network impact
+Firewalls documented and updated
