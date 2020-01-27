@@ -31,3 +31,8 @@ Flex Factory migration
 OT network impact
 Engineering network impact
 Firewalls documented and updated
+Change management and communication (including change approvals)
+Instrument dependencies (including fridges etc)
+Other locational site dependencies (e.g flexfactory can use other locations services (Westborough and Marlborough, Bangalore), (Uppsala – Umea) etc… 
+Security - Jump server (2FA e.gRSA) dependencies
+Alarms dependencies (ventilation, fire, fridges)
