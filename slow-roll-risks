@@ -36,3 +36,4 @@ Instrument dependencies (including fridges etc)
 Other locational site dependencies (e.g flexfactory can use other locations services (Westborough and Marlborough, Bangalore), (Uppsala – Umea) etc… 
 Security - Jump server (2FA e.gRSA) dependencies
 Alarms dependencies (ventilation, fire, fridges)
+Computer room access and security - part of site cutover plan - GE managed/Cytiva Managed
